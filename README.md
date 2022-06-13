@@ -4,54 +4,54 @@ A detailed syllabus of computer science. Roadmap computer science degree.
 ## Computer Organization and Architecture
 
 - [ ] **Computer Organization**
-   - [] Address Bus, Data Bus
-   - [] ROM, EPROM, RAM
-   - [] Memory Hierarchy, Cache Memory, Virtual Memory
-   - [] Secondary Storage
-   - [] Programmable Logic Devices and Controllers
-   - [] Input - Output Devices
+   - [ ] Address Bus, Data Bus
+   - [ ] ROM, EPROM, RAM
+   - [ ] Memory Hierarchy, Cache Memory, Virtual Memory
+   - [ ] Secondary Storage
+   - [ ] Programmable Logic Devices and Controllers
+   - [ ] Input - Output Devices
 
 - [ ] **Computer Architecture**
-   - [] Stack
-   - [] Registers
-   - [] Endian_ness
-   - [] Floating Point Numbers
-   - [] Addressing Modes
-   - [] Pipelining
-   - [] Interrupts
-   - [] RISC - CISC
-   - [] aarch64, Intel_x86 / AMD64, MIPS / RISC-V (learn the differences)
-   - [] [Assembly Language](https://stackoverflow.com/questions/1933801/x86-assembly-reference-sheet) (basic instructions)
+   - [ ] Stack
+   - [ ] Registers
+   - [ ] Endian_ness
+   - [ ] Floating Point Numbers
+   - [ ] Addressing Modes
+   - [ ] Pipelining
+   - [ ] Interrupts
+   - [ ] RISC - CISC
+   - [ ] aarch64, Intel_x86 / AMD64, MIPS / RISC-V (learn the differences)
+   - [ ] [Assembly Language](https://stackoverflow.com/questions/1933801/x86-assembly-reference-sheet) (basic instructions)
 
 ## Compiler Design
 
 - [ ] **Compiler Design**
-   - [] Lexical analysis
-   - [] Syntax analysis
-   - [] Type Checking
-   - [] Intermediate code generation
-   - [] Machine code generation
-   - [] Assembly and linking
-   - [] Analysis and optimisation
-   - [] Memory management
-   - [] Interpreters
+   - [ ] Lexical analysis
+   - [ ] Syntax analysis
+   - [ ] Type Checking
+   - [ ] Intermediate code generation
+   - [ ] Machine code generation
+   - [ ] Assembly and linking
+   - [ ] Analysis and optimisation
+   - [ ] Memory management
+   - [ ] Interpreters
 
 ## Programming
 
 - [ ] **Learn C**
-    - [] Character constants, escape sequences, string constants
-    - [] Data types and Type conversion
-    - [] Precedence and associativity of operators
-    - [] Functions
-    - [] storage class and variable scope
-    - [] if, for, while, switch_case
-    - [] break, continue, goto
-    - [] Arrays, Strings, Pointers
-    - [] Structs, Union, enum, typedef
-    - [] Header files, #MACROS
-    - [] malloc, calloc, realloc, argc argv
-    - [] file iO, streams
-    - [] <Math.h>
+    - [ ] Character constants, escape sequences, string constants
+    - [ ] Data types and Type conversion
+    - [ ] Precedence and associativity of operators
+    - [ ] Functions
+    - [ ] storage class and variable scope
+    - [ ] if, for, while, switch_case
+    - [ ] break, continue, goto
+    - [ ] Arrays, Strings, Pointers
+    - [ ] Structs, Union, enum, typedef
+    - [ ] Header files, #MACROS
+    - [ ] malloc, calloc, realloc, argc argv
+    - [ ] file iO, streams
+    - [ ] <Math.h>
     
 
 ## Data Structures
@@ -85,51 +85,53 @@ A detailed syllabus of computer science. Roadmap computer science degree.
 
 ## Computer Science - 3
 
-## DBMS and SQL
+## SQL and DBMS and Redis
 
 - [ ] **[SQL](https://www.javatpoint.com/sql-tutorial)**
     - [ ] **Data Definition Language**
-     - [] CREATE
-     - [] DROP
-     - [] ALTER
-     - [] TRUNCATE
+     - [ ] CREATE
+     - [ ] DROP
+     - [ ] ALTER
+     - [ ] TRUNCATE
     - [ ] **Data Query Language**
-     - [] SELECT
+     - [ ] SELECT
     - [ ] **Data Manipulation Language**
-     - [] INSERT
-     - [] UPDATE
-     - [] DELETE
+     - [ ] INSERT
+     - [ ] UPDATE
+     - [ ] DELETE
     - [ ] **Data Control Language**
-     - [] GRANT
-     - [] REVOKE
+     - [ ] GRANT
+     - [ ] REVOKE
     - [ ] **Transction Control Language**
-     - [] COMMIT
-     - [] ROLLBACK
-     - [] SAVEPOINT
+     - [ ] COMMIT
+     - [ ] ROLLBACK
+     - [ ] SAVEPOINT
     - [ ] **JOINS**
-     - [] FULL OUTER JOIN
-     - [] LEFT JOIN
-     - [] RIGHT JOIN
-     - [] NATURAL JOIN
-     - [] LEFT OUTER JOIN
-     - [] RIGHT OUTER JOIN
+     - [ ] FULL OUTER JOIN
+     - [ ] LEFT JOIN
+     - [ ] RIGHT JOIN
+     - [ ] NATURAL JOIN
+     - [ ] LEFT OUTER JOIN
+     - [ ] RIGHT OUTER JOIN
 
 - **[DataBase Management Systems](https://www.javatpoint.com/dbms-tutorial)**
     - Entity-Relationship model.
     - [ ] **Integrity Constraints**
-     - [] Primary Key and Foreign key
-     - [] Composite keys
-     - [] All other types of keys
+     - [ ] Primary Key and Foreign key
+     - [ ] Composite keys
+     - [ ] All other types of keys
     - [ ] Normal Forms : 1NF to 4 NF
     - [ ] File Organization.
     - [ ] Indexing (B- Trees and B+ Trees)
     - [ ] **Transactions and Concurrency Control**
-    - [] Conflict Serializability
-    - [] Locking
-    - [] ACID | BASE
+    - [ ] Conflict Serializability
+    - [ ] Locking
+    - [ ] ACID | BASE
+- **[ ] Redis**
+ 
     
 ## [Operating Systems](http://pages.cs.wisc.edu/~remzi/OSTEP/)
-   - [] The Boot Process
+   - [ ] The Boot Process
 - [ ] **Processes and Threads**
   - Process Control Block
   - Dispatcher and Scheduler
