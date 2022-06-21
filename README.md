@@ -8,18 +8,16 @@ If you have pull requests, please do in [This repository](https://github.com/ape
 If you want the bottom up approach (College format), please visit [This repository](https://github.com/apeman/awesome_computer_science_)
 
 # Table of Contents
+- ### [Programming](https://github.com/apeman/awesome_computer_science-1#programming)
+- ### [Data Structures](https://github.com/apeman/awesome_computer_science-1#data-structures)
+- ### [Algorithms](https://github.com/apeman/awesome_computer_science-1#algorithms)
+- ### [Compiler Design](https://github.com/apeman/awesome_computer_science-1#compiler-design)
+- ### [Computer Organization and Architecture](https://github.com/apeman/awesome_computer_science-1#computer-organization-and-architecture)
+- ### [Operating Systems](https://github.com/apeman/awesome_computer_science-1#operating-systems)
+- ### [Computer Networks](https://github.com/apeman/awesome_computer_science-1#computer-networks)
+- ### [SQL and DBMS](#sql-and-dbms)
 
-### [Programming](https://github.com/apeman/awesome_computer_science-1#programming)
-### [Data Structures](https://github.com/apeman/awesome_computer_science-1#data-structures)
-### [Algorithms](https://github.com/apeman/awesome_computer_science-1#algorithms)
-### [Compiler Design](https://github.com/apeman/awesome_computer_science-1#compiler-design)
-### [Computer Organization and Architecture](https://github.com/apeman/awesome_computer_science-1#computer-organization-and-architecture)
-### [Operating Systems](https://github.com/apeman/awesome_computer_science-1#operating-systems)
-### [Computer Networks](https://github.com/apeman/awesome_computer_science-1#computer-networks)
-### [Cryptography](https://github.com/apeman/awesome_computer_science-1#cryptography)
-### [Web Development](https://github.com/apeman/awesome_computer_science-1#web-development)
-### [SQL and DBMS](https://github.com/apeman/awesome_computer_science-1#sql-and-dbms)
-
+[Remaining syllabus and other applications are here](https://github.com/apeman/awesome_computer_science-2)
 
 ## Programming
 
@@ -160,33 +158,6 @@ If you want the bottom up approach (College format), please visit [This reposito
     - [ ] HTTP | FTP
     - [ ] DNS | SMTP
     - [ ] Email MIME Types | POP | IMAP
-
-## Cryptography
-
-- [ ] **Encryption Algorithms**
-    - DES, AES, Whirlpool, One Time Pad
-- [ ] **Hashing Algorithms**
-    - SHA family
-- [ ] **Key Distribution**
-    - RSA, Kerberos
-- [ ] **Digital Signatures**
-    - Message Digest    
- - [ ] **Compression**
-    - [History](https://www.hanshq.net/zip.html#huffman).
-    
-## Web Development
-> You can study Web Development from [Mozilla Developer Network Website](https://developer.mozilla.org/en-US/docs/Web/Tutorials).
-
-- [MDN Getting Started Guide](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
-- [ ] **Front-End**
-    - [HTML5](https://developer.mozilla.org/en-US/docs/Learn/HTML)
-    - [CSS3](https://developer.mozilla.org/en-US/docs/Learn/CSS)
-    - [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
-    - [Web Forms](https://developer.mozilla.org/en-US/docs/Learn/Forms) 
-    - [Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility) 
-    - [Tools and Testing](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing)
-    - [DNS and Domain Names](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name)
-    - [JSON and other formats](https://www.zionandzion.com/json-vs-xml-vs-toml-vs-cson-vs-yaml/) and [YAML](https://yaml.org/)
 
 
 ## SQL and DBMS
