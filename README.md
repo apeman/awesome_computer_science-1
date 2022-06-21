@@ -7,6 +7,19 @@ If you have pull requests, please do in [This repository](https://github.com/ape
 
 If you want the bottom up approach (College format), please visit [This repository](https://github.com/apeman/awesome_computer_science_)
 
+# Table of Contents
+
+### [Programming](https://github.com/apeman/awesome_computer_science-1#programming)
+### [Data Structures](https://github.com/apeman/awesome_computer_science-1#data-structures)
+### [Algorithms](https://github.com/apeman/awesome_computer_science-1#algorithms)
+### [Compiler Design](https://github.com/apeman/awesome_computer_science-1#compiler-design)
+### [Computer Organization and Architecture](https://github.com/apeman/awesome_computer_science-1#computer-organization-and-architecture)
+### [Operating Systems](https://github.com/apeman/awesome_computer_science-1#operating-systems)
+### [Computer Networks](https://github.com/apeman/awesome_computer_science-1#computer-networks)
+### [Cryptography](https://github.com/apeman/awesome_computer_science-1#cryptography)
+### [Web Development](https://github.com/apeman/awesome_computer_science-1#web-development)
+### [SQL and DBMS](https://github.com/apeman/awesome_computer_science-1#sql-and-dbms)
+
 
 ## Programming
 
@@ -176,7 +189,7 @@ If you want the bottom up approach (College format), please visit [This reposito
     - [JSON and other formats](https://www.zionandzion.com/json-vs-xml-vs-toml-vs-cson-vs-yaml/) and [YAML](https://yaml.org/)
 
 
-## SQL and DBMS and Redis
+## SQL and DBMS
 
 - [ ] **[SQL](https://www.javatpoint.com/sql-tutorial)**
     - [ ] **Data Definition Language**
