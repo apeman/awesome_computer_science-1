@@ -1,11 +1,10 @@
 # awesome_computer_science
 A detailed syllabus of computer science. Roadmap computer science degree.
 
-If you have pull requests, please do in [This repository](https://github.com/apeman/awesome_computer_science_)
-
 *This syllabus is structured in __Top Down approach for maximum productivity.__ You can start seeing the results of your learning as you progress through the course by building small programs and steadily learning the advanced details.*
 
 If you want the bottom up approach (College format), please visit [This repository](https://github.com/apeman/awesome_computer_science_)
+**If you have pull requests, please do in [This repository](https://github.com/apeman/awesome_computer_science_)**
 
 When you are done learning a subject, you can practice the [Project Ideas mentioned here](https://github.com/Tyuzu/awesome-projects/blob/main/README.md)
 
@@ -65,6 +64,10 @@ When you are done learning a subject, you can practice the [Project Ideas mentio
     - [ ] Minimum Spanning Trees
     - [ ] Shortest Paths
 - [ ] **space-time Complexity** 
+- [ ] **Computational Geometry**
+    - [ ] Convex Hull
+    - [ ] Concave Hull
+
 
 ## Compiler Design
 
@@ -166,48 +169,47 @@ When you are done learning a subject, you can practice the [Project Ideas mentio
 
 - [ ] **[SQL](https://www.javatpoint.com/sql-tutorial)**
     - [ ] **Data Definition Language**
-     - [ ] CREATE
-     - [ ] DROP
-     - [ ] ALTER
-     - [ ] TRUNCATE
+        - [ ] CREATE
+        - [ ] DROP
+        - [ ] ALTER
+        - [ ] TRUNCATE
     - [ ] **Data Query Language**
-     - [ ] SELECT
+        - [ ] SELECT
     - [ ] **Data Manipulation Language**
-     - [ ] INSERT
-     - [ ] UPDATE
-     - [ ] DELETE
+        - [ ] INSERT
+        - [ ] UPDATE
+        - [ ] DELETE
     - [ ] **Data Control Language**
-     - [ ] GRANT
-     - [ ] REVOKE
+        - [ ] GRANT
+        - [ ] REVOKE
     - [ ] **Transction Control Language**
-     - [ ] COMMIT
-     - [ ] ROLLBACK
-     - [ ] SAVEPOINT
+        - [ ] COMMIT
+        - [ ] ROLLBACK
+        - [ ] SAVEPOINT
     - [ ] **JOINS**
-     - [ ] FULL OUTER JOIN
-     - [ ] LEFT JOIN
-     - [ ] RIGHT JOIN
-     - [ ] NATURAL JOIN
-     - [ ] LEFT OUTER JOIN
-     - [ ] RIGHT OUTER JOIN
+        - [ ] FULL OUTER JOIN
+        - [ ] LEFT JOIN
+        - [ ] RIGHT JOIN
+        - [ ] NATURAL JOIN
+        - [ ] LEFT OUTER JOIN
+        - [ ] RIGHT OUTER JOIN
 
 - **[DataBase Management Systems](https://www.javatpoint.com/dbms-tutorial)**
     - Entity-Relationship model.
     - [ ] **Integrity Constraints**
-     - [ ] Primary Key and Foreign key
-     - [ ] Composite keys
-     - [ ] All other types of keys
+        - [ ] Primary Key and Foreign key
+        - [ ] Composite keys
+        - [ ] All other types of keys
     - [ ] Normal Forms : 1NF to 4 NF
     - [ ] File Organization.
     - [ ] Indexing (B- Trees and B+ Trees)
     - [ ] **Transactions and Concurrency Control**
-    - [ ] Conflict Serializability
-    - [ ] Locking
-    - [ ] ACID | BASE
+        - [ ] Conflict Serializability
+        - [ ] Locking
+        - [ ] ACID | BASE
 - **[ ] Redis**
  
- 
-After you are done with all this and want to make projects, check out [Projects you can make](https://github.com/apeman/awesome_computer_science/blob/master/what-should-i-code.md)
+
 
 ## LICENSE
 
