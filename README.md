@@ -7,6 +7,8 @@ If you have pull requests, please do in [This repository](https://github.com/ape
 
 If you want the bottom up approach (College format), please visit [This repository](https://github.com/apeman/awesome_computer_science_)
 
+When you are done learning a subject, you can practice the [Project Ideas mentioned here](https://github.com/Tyuzu/awesome-projects/blob/main/README.md)
+
 # Table of Contents
 - ### [Programming](https://github.com/apeman/awesome_computer_science-1#programming)
 - ### [Data Structures](https://github.com/apeman/awesome_computer_science-1#data-structures)
