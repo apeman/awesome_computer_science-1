@@ -163,6 +163,7 @@ When you are done learning a subject, you can practice the [Project Ideas mentio
     - [ ] HTTP | FTP
     - [ ] DNS | SMTP
     - [ ] Email MIME Types | POP | IMAP
+- [] How routers work
 
 
 ## SQL and DBMS
