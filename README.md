@@ -69,6 +69,51 @@ When you are done learning a subject, you can practice the [Project Ideas mentio
     - [ ] Concave Hull
 
 
+## SQL and DBMS
+
+- [ ] **[SQL](https://www.javatpoint.com/sql-tutorial)**
+    - [ ] **Data Definition Language**
+        - [ ] CREATE
+        - [ ] DROP
+        - [ ] ALTER
+        - [ ] TRUNCATE
+    - [ ] **Data Query Language**
+        - [ ] SELECT
+    - [ ] **Data Manipulation Language**
+        - [ ] INSERT
+        - [ ] UPDATE
+        - [ ] DELETE
+    - [ ] **Data Control Language**
+        - [ ] GRANT
+        - [ ] REVOKE
+    - [ ] **Transction Control Language**
+        - [ ] COMMIT
+        - [ ] ROLLBACK
+        - [ ] SAVEPOINT
+    - [ ] **JOINS**
+        - [ ] FULL OUTER JOIN
+        - [ ] LEFT JOIN
+        - [ ] RIGHT JOIN
+        - [ ] NATURAL JOIN
+        - [ ] LEFT OUTER JOIN
+        - [ ] RIGHT OUTER JOIN
+
+- **[DataBase Management Systems](https://www.javatpoint.com/dbms-tutorial)**
+    - Entity-Relationship model.
+    - [ ] **Integrity Constraints**
+        - [ ] Primary Key and Foreign key
+        - [ ] Composite keys
+        - [ ] All other types of keys
+    - [ ] Normal Forms : 1NF to 4 NF
+    - [ ] File Organization.
+    - [ ] Indexing (B- Trees and B+ Trees)
+    - [ ] **Transactions and Concurrency Control**
+        - [ ] Conflict Serializability
+        - [ ] Locking
+        - [ ] ACID | BASE
+- **[ ] Redis**
+
+
 ## Compiler Design
 
 - [ ] **Compiler Design**
@@ -164,52 +209,6 @@ When you are done learning a subject, you can practice the [Project Ideas mentio
     - [ ] DNS | SMTP
     - [ ] Email MIME Types | POP | IMAP
 - [] How routers work
-
-
-## SQL and DBMS
-
-- [ ] **[SQL](https://www.javatpoint.com/sql-tutorial)**
-    - [ ] **Data Definition Language**
-        - [ ] CREATE
-        - [ ] DROP
-        - [ ] ALTER
-        - [ ] TRUNCATE
-    - [ ] **Data Query Language**
-        - [ ] SELECT
-    - [ ] **Data Manipulation Language**
-        - [ ] INSERT
-        - [ ] UPDATE
-        - [ ] DELETE
-    - [ ] **Data Control Language**
-        - [ ] GRANT
-        - [ ] REVOKE
-    - [ ] **Transction Control Language**
-        - [ ] COMMIT
-        - [ ] ROLLBACK
-        - [ ] SAVEPOINT
-    - [ ] **JOINS**
-        - [ ] FULL OUTER JOIN
-        - [ ] LEFT JOIN
-        - [ ] RIGHT JOIN
-        - [ ] NATURAL JOIN
-        - [ ] LEFT OUTER JOIN
-        - [ ] RIGHT OUTER JOIN
-
-- **[DataBase Management Systems](https://www.javatpoint.com/dbms-tutorial)**
-    - Entity-Relationship model.
-    - [ ] **Integrity Constraints**
-        - [ ] Primary Key and Foreign key
-        - [ ] Composite keys
-        - [ ] All other types of keys
-    - [ ] Normal Forms : 1NF to 4 NF
-    - [ ] File Organization.
-    - [ ] Indexing (B- Trees and B+ Trees)
-    - [ ] **Transactions and Concurrency Control**
-        - [ ] Conflict Serializability
-        - [ ] Locking
-        - [ ] ACID | BASE
-- **[ ] Redis**
- 
 
 
 ## LICENSE
